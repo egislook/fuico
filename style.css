@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'fuico';
-    src:    url('fonts/fuico.eot?yjtama');
-    src:    url('fonts/fuico.eot?yjtama#iefix') format('embedded-opentype'),
-        url('fonts/fuico.ttf?yjtama') format('truetype'),
-        url('fonts/fuico.woff?yjtama') format('woff'),
-        url('fonts/fuico.svg?yjtama#fuico') format('svg');
+    src:    url('fonts/fuico.eot?1jf4lz');
+    src:    url('fonts/fuico.eot?1jf4lz#iefix') format('embedded-opentype'),
+        url('fonts/fuico.ttf?1jf4lz') format('truetype'),
+        url('fonts/fuico.woff?1jf4lz') format('woff'),
+        url('fonts/fuico.svg?1jf4lz#fuico') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -27,80 +27,62 @@
 .fu-poinout:before {
     content: "\e937";
 }
-.fu-add-to-list:before {
-    content: "\e900";
+.fu-google:before {
+    content: "\e938";
 }
-.fu-chevron-small-down:before {
-    content: "\e901";
+.fu-google2:before {
+    content: "\e939";
 }
-.fu-chevron-small-left:before {
-    content: "\e902";
+.fu-google3:before {
+    content: "\e93a";
 }
-.fu-chevron-small-right:before {
-    content: "\e903";
+.fu-google-plus:before {
+    content: "\e93b";
 }
-.fu-chevron-small-up:before {
-    content: "\e904";
+.fu-google-plus2:before {
+    content: "\e93c";
 }
-.fu-chevron-thin-down:before {
-    content: "\e905";
+.fu-google-plus3:before {
+    content: "\e93d";
 }
-.fu-chevron-thin-left:before {
-    content: "\e906";
+.fu-facebook:before {
+    content: "\e93e";
 }
-.fu-chevron-thin-right:before {
-    content: "\e907";
+.fu-facebook2:before {
+    content: "\e93f";
 }
-.fu-chevron-thin-up:before {
-    content: "\e908";
+.fu-instagram:before {
+    content: "\e940";
 }
-.fu-chevron-with-circle-down:before {
-    content: "\e909";
+.fu-twitter:before {
+    content: "\e941";
 }
-.fu-chevron-with-circle-left:before {
-    content: "\e90a";
+.fu-vine:before {
+    content: "\e942";
 }
-.fu-chevron-with-circle-right:before {
-    content: "\e90b";
+.fu-vk:before {
+    content: "\e943";
 }
-.fu-chevron-with-circle-up:before {
-    content: "\e90c";
+.fu-youtube:before {
+    content: "\e944";
 }
-.fu-dots-three-horizontal:before {
-    content: "\e90d";
+.fu-youtube2:before {
+    content: "\e945";
 }
-.fu-dots-three-vertical:before {
-    content: "\e90e";
+.fu-deviantart:before {
+    content: "\e946";
 }
-.fu-address:before {
-    content: "\e90f";
+.fu-steam:before {
+    content: "\e947";
 }
-.fu-air:before {
-    content: "\e910";
+.fu-steam2:before {
+    content: "\e948";
 }
-.fu-bowl:before {
-    content: "\e911";
+.fu-dropbox:before {
+    content: "\e949";
 }
-.fu-email:before {
-    content: "\e912";
-}
-.fu-feather:before {
-    content: "\e913";
-}
-.fu-funnel:before {
-    content: "\e914";
-}
-.fu-leaf:before {
-    content: "\e915";
-}
-.fu-new:before {
-    content: "\e916";
-}
-.fu-quote:before {
-    content: "\e917";
-}
-.fu-rocket:before {
-    content: "\e918";
+.fu-github:before {
+    content: "\e94a";
 }
 .fu-arrow-small-down:before {
     content: "\f0a0";
@@ -152,6 +134,81 @@
 }
 .fu-triangle-up:before {
     content: "\f0aa";
+}
+.fu-add-to-list:before {
+    content: "\e900";
+}
+.fu-chevron-small-down:before {
+    content: "\e901";
+}
+.fu-chevron-small-left:before {
+    content: "\e902";
+}
+.fu-chevron-small-right:before {
+    content: "\e903";
+}
+.fu-chevron-small-up:before {
+    content: "\e904";
+}
+.fu-chevron-thin-down:before {
+    content: "\e905";
+}
+.fu-chevron-thin-left:before {
+    content: "\e906";
+}
+.fu-chevron-thin-right:before {
+    content: "\e907";
+}
+.fu-chevron-thin-up:before {
+    content: "\e908";
+}
+.fu-chevron-circle-down:before {
+    content: "\e909";
+}
+.fu-chevron-circle-left:before {
+    content: "\e90a";
+}
+.fu-chevron-circle-right:before {
+    content: "\e90b";
+}
+.fu-chevron-circle-up:before {
+    content: "\e90c";
+}
+.fu-dots-three-horizontal:before {
+    content: "\e90d";
+}
+.fu-dots-three-vertical:before {
+    content: "\e90e";
+}
+.fu-address:before {
+    content: "\e90f";
+}
+.fu-air:before {
+    content: "\e910";
+}
+.fu-bowl:before {
+    content: "\e911";
+}
+.fu-email:before {
+    content: "\e912";
+}
+.fu-feather:before {
+    content: "\e913";
+}
+.fu-funnel:before {
+    content: "\e914";
+}
+.fu-leaf:before {
+    content: "\e915";
+}
+.fu-new:before {
+    content: "\e916";
+}
+.fu-quote:before {
+    content: "\e917";
+}
+.fu-rocket:before {
+    content: "\e918";
 }
 .fu-quote2:before {
     content: "\e919";
@@ -491,8 +548,5 @@
 }
 .fu-open:before {
     content: "\e128";
-}
-.fu-ellipsis:before {
-    content: "\e129";
 }
 
