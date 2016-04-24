@@ -1,5 +1,5 @@
 # fuico
 
-Fuico icon external file (0.0.4) https://cdn.rawgit.com/noneedsystem/fuico/0.0.4/style.css
+Fuico icon external file (0.0.5) https://cdn.rawgit.com/noneedsystem/fuico/0.0.5/style.css
 
-DEMO link https://cdn.rawgit.com/noneedsystem/fuico/0.0.4/demo.html
+DEMO link https://cdn.rawgit.com/noneedsystem/fuico/0.0.5/demo.html
