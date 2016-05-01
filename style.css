@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'fuico';
-    src:    url('fonts/fuico.eot?954p5x');
-    src:    url('fonts/fuico.eot?954p5x#iefix') format('embedded-opentype'),
-        url('fonts/fuico.ttf?954p5x') format('truetype'),
-        url('fonts/fuico.woff?954p5x') format('woff'),
-        url('fonts/fuico.svg?954p5x#fuico') format('svg');
+    src:    url('fonts/fuico.eot?61pgl5');
+    src:    url('fonts/fuico.eot?61pgl5#iefix') format('embedded-opentype'),
+        url('fonts/fuico.ttf?61pgl5') format('truetype'),
+        url('fonts/fuico.woff?61pgl5') format('woff'),
+        url('fonts/fuico.svg?61pgl5#fuico') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -24,13 +24,16 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.fu-imdb-circle:before {
+    content: "\e996";
+}
 .fu-megaphone:before {
     content: "\e951";
 }
 .fu-paper-plane:before {
     content: "\e952";
 }
-.fu-500px-with-circle:before {
+.fu-500px-circle:before {
     content: "\e953";
 }
 .fu-500px:before {
