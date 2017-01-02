@@ -1,5 +1,13 @@
-# fuico
+# Fuico
 
-Fuico icon external file (0.0.7c https://cdn.rawgit.com/noneedsystem/fuico/0.0.7c/style.css
+Fuico icon external file  
+https://cdn.rawgit.com/noneedsystem/fuico/0.0.8/style.css  
 
-DEMO link https://cdn.rawgit.com/noneedsystem/fuico/0.0.7c/demo.html
+DEMO link  
+https://cdn.rawgit.com/noneedsystem/fuico/0.0.8/demo.html  
+
+Example link  
+https://cdn.rawgit.com/noneedsystem/fuico/0.0.8/example.html  
+
+Fucss styling generator Hell YEAH!!!!  
+https://github.com/noneedsystem/fucss
