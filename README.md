@@ -1,7 +1,7 @@
 # Fuico
 
 Fuico icon external file  
-https://cdn.rawgit.com/noneedsystem/fuico/0.0.8/style.css  
+https://cdn.jsdelivr.net/gh/noneedsystem/fuico@0.0.8/style.css  
 
 DEMO link  
 https://cdn.rawgit.com/noneedsystem/fuico/0.0.8/demo.html  
